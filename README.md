@@ -24,10 +24,6 @@ Self-taught developer with 1+ year of hands-on programming experience, currently
 
 ## 🚀 Projects
 
-https://image-galeryy.netlify.app/ 
-This project is a simple web application that functions as an image search gallery.
-Its core purpose is to allow users to search for and browse high-quality, free stock photos by fetching them directly from the Unsplash API.
-
 https://weather-widget-by-koda.netlify.app/
 This project is s a clean and functional Weather Application.
 Judging by its title and content, it's a weather widget that provides current conditions for a specific location.
