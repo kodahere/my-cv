@@ -52,7 +52,6 @@ My immediate goal is to secure a junior frontend developer position where I can:
 2. Learn from experienced developers through code reviews and mentorship
 3. Contribute to team success while rapidly expanding my technical knowledge
 4. Eventually grow into a full-stack developer role
-5. 
 ---
 
 ### 📌 Note for Recruiters
