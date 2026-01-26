@@ -3,7 +3,7 @@
 
 📍 **Location:** Minsk  
 📧 **Email:** repovlad@gmail.com 
-📱 **Phone:** +375292715306
+📧 **Telegram:** https://t.me/kodahere
 
 ---
 
