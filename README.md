@@ -40,7 +40,7 @@ This project is a stylish landing page for a fictional coffee shop or brand.
 
 ## 🌐 Languages
 - **Russian:** Native
-- **English:** B1 Intermediate (can read technical documentation, communicate in written form, working to improve speaking skills)
+- **English:** B2 Intermediate (can read technical documentation, communicate in written form, working to improve speaking skills)
 
 ## 🎯 Career Goals
 My immediate goal is to secure a junior frontend developer position where I can:
