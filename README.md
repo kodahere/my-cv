@@ -23,6 +23,10 @@ Self-taught developer with 1+ year of hands-on programming experience, currently
 - TypeScript basics
 
 ## 🚀 Projects
+
+https://shelter-by-koda.netlify.app/
+This project was built using HTML5, CSS3, and vanilla JavaScript
+
 https://employee-accounting1.netlify.app/
 This project is a basic web interface for managing a list of employees
 
